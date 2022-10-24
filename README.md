@@ -9,3 +9,9 @@ https://www.linkedin.com/learning/learning-go-8399317
 
 Check what go tools installed:
 Ctrl Shift P-> Go: Locate Configured Go tools
+
+Build:
+go build .
+
+Run:
+go run .
