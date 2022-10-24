@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-func main() {
+func main_3() {
 	var reader = bufio.NewReader(os.Stdin)
 	fmt.Println("Please, input integer")
 	input, _ := reader.ReadString('\n')
@@ -19,4 +19,8 @@ func main() {
 	} else {
 		fmt.Printf("Type is %T\n", inputInteger)
 	}
+
+	var i int8 = 120
+	i += 10
+	fmt.Println(i)
 }
