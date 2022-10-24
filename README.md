@@ -7,11 +7,8 @@ https://www.linkedin.com/learning/learning-go-8399317
 3. Get sources
 4. In VSCode terminal type (instead of test_code you can type anything): go mod init test_code
 
-Check what go tools installed:
-Ctrl Shift P-> Go: Locate Configured Go tools
+Check what go tools installed: Ctrl Shift P-> Go: Locate Configured Go tools
 
-Build:
-go build .
+Build: go build .
 
-Run:
-go run .
+Run: go run .
