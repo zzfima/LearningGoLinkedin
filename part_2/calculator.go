@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-func main() {
+func main_4() {
 	var reader = bufio.NewReader(os.Stdin)
 
 	fmt.Println("Please, input value 1")
