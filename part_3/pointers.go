@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main_6() {
 	int1 := 55
 	ptr1 := &int1
 	fmt.Println("value:", *ptr1, "address:", ptr1)
