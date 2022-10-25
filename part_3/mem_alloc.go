@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main_5() {
 	fmt.Println("Memory allocation ways")
 
 	//incorrect - cannot compile
